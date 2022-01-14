@@ -1,0 +1,6 @@
+print("And")
+print("the")
+print("granite")
+print("of")
+print("New")
+print("Hampshire")

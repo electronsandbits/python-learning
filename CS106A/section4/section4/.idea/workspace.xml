@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29fef788-0867-40c7-a930-57b59ff5ab3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pass</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1oB8DGdw3ZARicrkOxREvoVC0PM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Doctest parse_phone_number">
+    <configuration name="section4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="draw-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest exclaim_word" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="exclaim_word" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest exclaim_words (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="exclaim_words" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest exclaim_words" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="draw-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="exclaim_words" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest find_price" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="find_price" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest find_time" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="find_time" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_hostname" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_hostname" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_out_hashtag" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_out_hashtag" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_out_hashtags" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_out_hashtags" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_phone_number" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_phone_number" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_unique_categories (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_unique_categories" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_unique_categories" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="draw-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_unique_categories" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_username" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_username" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_words (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_parsing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_words" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest parse_words" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="draw-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="parse_words" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.section4" />
+      <item itemvalue="Python tests.Doctest exclaim_word" />
+      <item itemvalue="Python tests.Doctest find_price" />
+      <item itemvalue="Python tests.Doctest find_time" />
+      <item itemvalue="Python tests.Doctest parse_hostname" />
+      <item itemvalue="Python tests.Doctest parse_out_hashtag" />
+      <item itemvalue="Python tests.Doctest parse_username" />
+      <item itemvalue="Python tests.Doctest parse_out_hashtags" />
+      <item itemvalue="Python tests.Doctest parse_phone_number" />
+      <item itemvalue="Python tests.Doctest exclaim_words" />
+      <item itemvalue="Python tests.Doctest parse_unique_categories" />
+      <item itemvalue="Python tests.Doctest parse_words" />
+      <item itemvalue="Python tests.Doctest exclaim_words (1)" />
+      <item itemvalue="Python tests.Doctest parse_unique_categories (1)" />
+      <item itemvalue="Python tests.Doctest parse_words (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Doctest parse_words (1)" />
+        <item itemvalue="Python tests.Doctest parse_unique_categories (1)" />
+        <item itemvalue="Python tests.Doctest exclaim_words (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29fef788-0867-40c7-a930-57b59ff5ab3d" name="Default Changelist" comment="" />
+      <created>1570208585572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570208585572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="204" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619580936948">
+      <screen x="0" y="23" width="1440" height="782" />
+    </state>
+    <state x="204" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.782@0.23.1440.782" timestamp="1619580936948" />
+    <state x="204" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.796@0.23.1440.796" timestamp="1612922841797" />
+    <state width="1379" height="191" key="GridCell.Tab.0.bottom" timestamp="1619581011003">
+      <screen x="0" y="23" width="1440" height="782" />
+    </state>
+    <state width="1379" height="191" key="GridCell.Tab.0.bottom/0.23.1440.782@0.23.1440.782" timestamp="1619581011003" />
+    <state width="1379" height="191" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1612927559469" />
+    <state width="1379" height="191" key="GridCell.Tab.0.center" timestamp="1619581011003">
+      <screen x="0" y="23" width="1440" height="782" />
+    </state>
+    <state width="1379" height="191" key="GridCell.Tab.0.center/0.23.1440.782@0.23.1440.782" timestamp="1619581011003" />
+    <state width="1379" height="191" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1612927559468" />
+    <state width="1379" height="191" key="GridCell.Tab.0.left" timestamp="1619581011002">
+      <screen x="0" y="23" width="1440" height="782" />
+    </state>
+    <state width="1379" height="191" key="GridCell.Tab.0.left/0.23.1440.782@0.23.1440.782" timestamp="1619581011002" />
+    <state width="1379" height="191" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1612927559468" />
+    <state width="1379" height="191" key="GridCell.Tab.0.right" timestamp="1619581011003">
+      <screen x="0" y="23" width="1440" height="782" />
+    </state>
+    <state width="1379" height="191" key="GridCell.Tab.0.right/0.23.1440.782@0.23.1440.782" timestamp="1619581011003" />
+    <state width="1379" height="191" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1612927559469" />
+    <state x="249" y="40" key="SettingsEditor" timestamp="1612922819472">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state x="249" y="40" key="SettingsEditor/0.23.1440.796@0.23.1440.796" timestamp="1612922819472" />
+  </component>
+</project>

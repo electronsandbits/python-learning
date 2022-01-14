@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f64201c0-3aba-40f7-88bf-bc62019aafbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WzUujCXQsbgJzMrKCe00vjUB1j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Doctest character_counts">
+    <configuration name="Doctest at_words" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringsearching.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="at_words" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest character_counts" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringconstruction.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="character_counts" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest defront" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringsearching.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="defront" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest is_peaceful" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordpuzzles.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="is_peaceful" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest is_stacatto" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordpuzzles.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="is_stacatto" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest is_valid_password" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringsearching.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="is_valid_password" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest make_gerund" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringconstruction.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="make_gerund" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest put_in_middle" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringconstruction.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="put_in_middle" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest x_end" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="StringConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringsearching.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="x_end" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Doctest at_words" />
+      <item itemvalue="Python tests.Doctest character_counts" />
+      <item itemvalue="Python tests.Doctest defront" />
+      <item itemvalue="Python tests.Doctest is_peaceful" />
+      <item itemvalue="Python tests.Doctest is_stacatto" />
+      <item itemvalue="Python tests.Doctest is_valid_password" />
+      <item itemvalue="Python tests.Doctest make_gerund" />
+      <item itemvalue="Python tests.Doctest put_in_middle" />
+      <item itemvalue="Python tests.Doctest x_end" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f64201c0-3aba-40f7-88bf-bc62019aafbf" name="Default Changelist" comment="" />
+      <created>1580152141928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580152141928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612204422973">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state x="230" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.796@0.23.1440.796" timestamp="1612204422973" />
+    <state width="1379" height="191" key="GridCell.Tab.0.bottom" timestamp="1612204862471">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state width="1379" height="191" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1612204862471" />
+    <state width="1379" height="191" key="GridCell.Tab.0.center" timestamp="1612204862470">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state width="1379" height="191" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1612204862470" />
+    <state width="1379" height="191" key="GridCell.Tab.0.left" timestamp="1612204862469">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state width="1379" height="191" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1612204862469" />
+    <state width="1379" height="191" key="GridCell.Tab.0.right" timestamp="1612204862471">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state width="1379" height="191" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1612204862471" />
+    <state x="249" y="40" key="SettingsEditor" timestamp="1612203492282">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state x="249" y="40" key="SettingsEditor/0.23.1440.796@0.23.1440.796" timestamp="1612203492282" />
+  </component>
+</project>
